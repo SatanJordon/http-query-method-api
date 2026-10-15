@@ -253,10 +253,9 @@ You do not need MySQL, PostgreSQL, Docker, or a paid database service for this d
 
 ### 1. Clone the repository
 
-Replace `YOUR_USERNAME` with the GitHub account hosting this repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/http-query-method-api.git
+git clone https://github.com/SatanJordon/http-query-method-api.git
 cd http-query-method-api
 ```
 
